@@ -6,5 +6,3 @@ This is the scope of the project (context, needs, vision, possible outcomes) whe
 The next element in data analysis involves the how. 
 This is where you gather the data to use statistics and computer science to uncover those insights — your technical skills. 
 This is what we will focus on in this step-by-step guide.
-
-
